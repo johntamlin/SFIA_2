@@ -5,6 +5,25 @@
 {% block style %}
 
 <style>
+    {box-sizing: border-box;}
+
+    .row {  display: flex;
+      margin-left:-5px;
+      margin-right:-5px;}
+    
+    .column {  flex: 50%;
+      padding: 5px;}
+    
+    table {  border-collapse: collapse;
+      border-spacing: 0;
+      width: 100%;
+      border: 1px solid #ddd;}
+    
+    th, td {  text-align: left;
+      padding: 16px;}
+    
+    tr:nth-child(even) {  background-color: #f2f2f2;
+    }
 
 </style>
 
@@ -15,8 +34,7 @@
 
 <div class="w3-display-middle">
 
-    <h1>Welcome to your register</h1>
+    <h3>Welcome to the site. Additional functionality is in progress</h3>
 
-</div>
 
 {% endblock %}
