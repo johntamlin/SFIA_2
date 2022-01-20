@@ -10,6 +10,6 @@ app.config['MYSQL_CURSORCLASS'] = 'DictCursor'
 
 dbRoutines = DbRoutines(app)
 
-cursor = dbRoutines.mysql.connection.cursor()
-cursor.execute(f"INSERT INTO `Credentials` (`username`, `userpwd`) VALUES ('siamak','siamak');")
+cursor = DbRoutines.mysql.connection.cursor()
+cursor.execute(f"INSERT INTO `Firearms` (`SerNumber`, `Make`) VALUES ('45678','Mauser');")
 cursor.close()
