@@ -16,8 +16,8 @@ The application is a Flask application that serves both the frontend and backend
 Jira was used as the project tracking and planning tool using Agile and Scrum as the principle planning methodology. MoSCoW was used for requirements elicitation.
 
 Using MoSCoW method:
-**MUST HAVE**
 
+**MUST HAVE**
 Each firearm needs its details stored, its date of entry, purpose of storage and onward transfer.
 The user bringing a firearm in (person handing a firearm in) needs to have their details stored - name, address, tel no, certificate details
 The user taking a firearm out requires the same details to be taken
