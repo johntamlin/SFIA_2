@@ -33,12 +33,12 @@ Reporting all transactions to the relevant Police forces
 Delivery service integration and tracking
 
 #### Technologies
-+Python
-+Pytest
-+Flask
-+Jenkins
-+Docker/Docker Compose
-+MySQL
++ Python
++ Pytest
++ Flask
++ Jenkins
++ Docker/Docker Compose
++ MySQL
 
 #### Planning 
 The planning of the project was essential in order to meet the aims. The Minimum Viable Product (MVP) being the principle aim. Following structural and outline planning on paper, Jira was used as the principle planning tool. It proved its value in monitoring progress and tracking tasks.
