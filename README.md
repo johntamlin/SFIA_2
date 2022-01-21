@@ -58,9 +58,6 @@ Jenkins is a powerful tool used in CI/CD pipelines as it allows a number of task
 #### System
 
 ![System](/webapp/webapp/Flow.jpg)
-<<<<<<< HEAD
 
 #### Further Development
 Although simple in its requirements and with limited complexity, the project was beyond my technical ability to complete within the constraints of the duration of the course. It remains a commercially viable proposition and a project to continue to be developed.
-=======
->>>>>>> 8f99a2edfc686d699aca79ff48f61bf736eb5318
